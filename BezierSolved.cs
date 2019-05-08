@@ -1,4 +1,4 @@
-﻿// 에셋 스토어의 베지어커브가 오류가 있으므로
+// 에셋 스토어의 베지어커브가 오류가 있으므로
 // 고쳐서 쓰려고 만든 코드
 public class BezierSolved : MonoBehaviour
 {
