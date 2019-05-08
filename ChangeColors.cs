@@ -1,4 +1,6 @@
-﻿// 단순 Lerp이용
+// 아래의 함수 중 원하는 것을 복사하여 이용하세요.
+
+// 단순 Lerp이용
 // 알파값변화(수정가능)
 public IEnumerator ChangeColor_Simple()
 {
